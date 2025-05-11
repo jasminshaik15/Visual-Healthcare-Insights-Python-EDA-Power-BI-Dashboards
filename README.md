@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Healthcare Project Guide Illustration.jpg" alt="Healthcare Data Insights Banner" width="500" height="500">
+  <img src="Images/Healthcare Project Guide Illustration.jpg" alt="Healthcare Data Insights Banner" width="700" height="400">
 </p>
 
 # Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards
