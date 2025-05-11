@@ -3,7 +3,6 @@
 </p>
 
 # Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards
-----
 
 ## 📌 Project Overview
 This project focuses on analyzing healthcare data to uncover key insights into patient admissions, medical conditions, treatment outcomes, and hospital performance. By combining Python for data preparation and cleaning with Power BI for interactive dashboards, the project aims to support healthcare administrators in making data-driven operational and clinical decisions.
