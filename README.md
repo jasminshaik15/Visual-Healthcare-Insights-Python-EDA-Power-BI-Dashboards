@@ -4,7 +4,15 @@
 
 # Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards
 
-## 📌 Project Overview
+## 📚 Table of Contents
+
+- [Project Overview](#features)
+  - [🖼️ Regression in Seaborn](#regression-in-seaborn)
+
+
+ 
+
+## 📌 Project Overview <a name="project-overview"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;This project focuses on analyzing healthcare data to uncover key insights into patient admissions, medical conditions, treatment outcomes, and hospital performance. By combining Python for data preparation and cleaning with Power BI for interactive dashboards, the project aims to support healthcare administrators in making data-driven operational and clinical decisions.
 
 
@@ -28,7 +36,7 @@ The dashboards created include:
 This project demonstrates how Python-based data engineering can seamlessly integrate with BI tools like Power BI to deliver healthcare insights that improve operational efficiency and patient care decisions.
 
 
-## 📌 Key Features
+## 📌 Key Features <a name="features"></a>
 
 - 📑 Merges multiple Excel sheets into a single clean dataset.
 
@@ -114,9 +122,9 @@ jupyter notebook Python/HEALTHCARE_EDA.ipynb
 #### 4️⃣ Open the Power BI Dashboard manually:
 #### Navigate to the 'PowerBI' folder and open 'HEALTHCARE_DASHBOARD.pbix' in Power BI Desktop
 
-## 📌  How to Run (For both Python EDA + Power BI)
+## 📌 How to Run (For both Python EDA + Power BI)
 
-- ### Run Python EDA Notebook
+### Run Python EDA Notebook
 
 #### 1️⃣ Install dependencies  
 Make sure you have all the necessary dependencies by running the following command:
@@ -131,7 +139,7 @@ jupyter notebook Python/HEALTHCARE_EDA.ipynb
 Once the notebook is open in your browser, execute all the cells to run the EDA analysis.
 
 
-- ### 📊 Open Power BI Dashboard
+### 📊 Open Power BI Dashboard
 #### 1️⃣ Install Power BI Desktop
 If you haven't already, install Power BI Desktop. You can download it from here.
 
@@ -154,6 +162,9 @@ Once the Power BI file is open, you can explore the following interactive dashbo
 #### 4️⃣ Refresh the dataset if needed
 
 If you need to refresh the data, connect to the Excel file located under the /data/ directory.
+
+## 📌 Detailed overview of Healthcre_EDA in python
+  
 
 
 
