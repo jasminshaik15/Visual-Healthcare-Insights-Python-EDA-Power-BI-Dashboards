@@ -70,7 +70,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 ├── 📁 Data/ # Healthcare Excel dataset files
 
-│ └── healthcare_dataset.xlsx
+│ ├── healthcare_dataset.xlsx
 
 │
 
@@ -82,13 +82,13 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 │ ├── HEALTHCARE_EDA.ipynb
 
-│ └── requirements.txt
+│ ├── requirements.txt
 
 │
 
 ├── 📁 PowerBI/ # Power BI dashboard files
 
-│ └── HEALTHCARE_DASHBOARD.pbix
+│ ├── HEALTHCARE_DASHBOARD.pbix
 
 │
 
