@@ -66,6 +66,24 @@ This project demonstrates how Python-based data engineering can seamlessly integ
   
 - CSV & Excel Files (for data storage)
 
+## 📂 Project Folder Structure
+
+├── 📁 Data/ # Healthcare Excel dataset files
+│ └── healthcare_dataset.xlsx
+│
+├── 📁 Images/ # Project images for README or dashboards
+│
+├── 📁 Python/ # Python notebook, requirements, and scripts
+│ ├── HEALTHCARE_EDA.ipynb
+│ └── requirements.txt
+│
+├── 📁 PowerBI/ # Power BI dashboard files
+│ └── HEALTHCARE_DASHBOARD.pbix
+│
+├── 📄 .gitignore # Git ignore rules
+├── 📄 LICENSE # Project open source license
+├── 📄 README.md # Project overview and documentation
+
 
 
 
