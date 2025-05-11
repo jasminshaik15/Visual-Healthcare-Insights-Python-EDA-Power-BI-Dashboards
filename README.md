@@ -102,6 +102,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 #### 1️⃣ Clone the repository
 git clone [https://github.com/jasminshaik15/Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards.git](https://github.com/jasminshaik15/Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards)
+
 cd Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards
 
 #### 2️⃣ Install required Python packages
@@ -112,6 +113,48 @@ jupyter notebook Python/HEALTHCARE_EDA.ipynb
 
 #### 4️⃣ Open the Power BI Dashboard manually:
 #### Navigate to the 'PowerBI' folder and open 'HEALTHCARE_DASHBOARD.pbix' in Power BI Desktop
+
+## 📌  How to Run (For both Python EDA + Power BI)
+
+### Run Python EDA Notebook
+
+#### 1️⃣ Install dependencies  
+Make sure you have all the necessary dependencies by running the following command:
+
+pip install -r Python/requirements.txt
+
+#### 2️⃣ Launch the Jupyter Notebook
+After installing the dependencies, open the Jupyter notebook with the following command:
+jupyter notebook Python/HEALTHCARE_EDA.ipynb
+
+#### 3️⃣ In your browser, open the notebook and run all cells sequentially
+Once the notebook is open in your browser, execute all the cells to run the EDA analysis.
+
+
+### 📊 Open Power BI Dashboard
+#### 1️⃣ Install Power BI Desktop
+If you haven't already, install Power BI Desktop. You can download it from here.
+
+#### 2️⃣ Open the Power BI file
+To view the dashboards, open the Power BI file located in the PowerBI directory:
+
+&nbsp;&nbsp;&nbsp;&nbsp; PowerBI/HealthCare_Dashboard.pbix
+
+#### 3️⃣ Explore all the interactive dashboards
+Once the Power BI file is open, you can explore the following interactive dashboards:
+
+ - 📊 Overview Dashboard
+
+ - 🩺 Medical Condition & Outcome Analysis
+
+ - 💸 Billing & Insurance Analysis
+
+ - 🧑‍⚕ Doctor & Hospital Performance
+
+#### 4️⃣ Refresh the dataset if needed
+
+If you need to refresh the data, connect to the Excel file located under the /data/ directory.
+
 
 
 
