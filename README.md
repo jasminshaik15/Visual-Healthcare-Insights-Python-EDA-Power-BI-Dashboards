@@ -47,23 +47,25 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 - 📈 Builds Power BI dashboards for dynamic visual insights.
 
 ## 📌 Tools & Technologies
+
 - Python
   
-&nbsp;&nbsp;&nbsp; - Pandas
-
-&nbsp;&nbsp;&nbsp; - NumPy
-
-&nbsp;&nbsp;&nbsp; - Matplotlib
-
-&nbsp;&nbsp;&nbsp; - Seaborn
-
+  - Pandas
+    
+  - NumPy
+    
+  - Matplotlib
+    
+  - Seaborn
+    
 - Power BI
+  
+- Microsoft Excel
+  
+- Jupyter Notebook
+  
+- CSV & Excel Files (for data storage)
 
-- 📑 Microsoft Excel
-
-- 📝 Jupyter Notebook
-
-- 📂 CSV & Excel Files (for data storage)
 
 
 
