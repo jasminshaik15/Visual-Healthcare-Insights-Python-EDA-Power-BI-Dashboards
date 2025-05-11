@@ -36,8 +36,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp; 10.3 [Billing & Insurance Analysis](#103-billing--insurance-analysis)  
     &nbsp;&nbsp;&nbsp;&nbsp; 10.4 [Doctor & Hospital Performance](#104-doctor--hospital-performance)  
     &nbsp;&nbsp;&nbsp;&nbsp; 10.5 [Time-Based Analysis](#105-time-based-analysis)
-11. [Author](#11-Author)
-12. [License](#12-License)
+11. [Author](#11-author)
+12. [License](#12-license)
 
 
 
@@ -377,7 +377,7 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 
 ![patient_details_dashboard](Images/patient_details_dashboard.png)
 
-## 👨‍💻 11. Author <a name="11-Author"></a> 
+## 👨‍💻 11. Author <a name="11-author"></a> 
 
 *Jasmin Shaik*  
 Data Scientist | Data Science Enthusiast  
@@ -386,7 +386,7 @@ Data Scientist | Data Science Enthusiast
 - 🌐 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jasmin-shaik/)
 - 🌐 Portfolio: [https://yourportfolio.com](https://jasminshaik15.github.io/Jasmin_Portfolio/)
 
-## 12. License <a name="12-License"></a> 
+## 12. License <a name="12-license"></a> 
 
 This project is licensed under the [MIT License](LICENSE).
 
