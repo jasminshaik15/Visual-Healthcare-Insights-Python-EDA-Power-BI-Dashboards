@@ -26,6 +26,26 @@ The dashboards created include:
 
 This project demonstrates how Python-based data engineering can seamlessly integrate with BI tools like Power BI to deliver healthcare insights that improve operational efficiency and patient care decisions.
 
+## 📌 Key Features
+
+-📑 Merges multiple Excel sheets into a single clean dataset.
+
+-🧹 Cleans and standardizes patient, doctor, and hospital details.
+
+-⚙ Handles missing values (numeric → median, categorical → mode).
+
+-📏 Calculates Length of Stay for each patient.
+
+-💸 Flags patients with High Billing Amounts.
+
+-🔢 Maps Admission Types to numeric codes for analysis.
+
+-📊 Performs EDA using Python (Pandas, Matplotlib, Seaborn).
+
+-📈 Builds Power BI dashboards for dynamic visual insights.
+
+
+
 
 
 
