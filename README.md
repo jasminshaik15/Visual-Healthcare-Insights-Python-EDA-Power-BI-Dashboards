@@ -83,7 +83,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 - 📈 Builds Power BI dashboards for dynamic visual insights.
 
-## 📌 Tools & Technologies <a name="-tools--technologies"></a>
+## 📌 Tools & Technologies <a name="4-tools--technologies"></a>
 
 - Python
   
@@ -103,7 +103,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
   
 - CSV & Excel Files (for data storage)
 
-## 📌 Project Folder Structure <a name="-project-folder-structure"></a>
+## 📌 Project Folder Structure <a name="5-project-folder-structure"></a>
 
 ├── 📁 Data/ # Healthcare Excel dataset files
 
@@ -135,7 +135,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 ├── 📄 README.md # Project overview and documentation
 
-## 📌 Installation & Setup (One Block for Python + Power BI) <a name="-installation--setup"></a>
+## 📌 Installation & Setup (One Block for Python + Power BI) <a name="6-installation--setup"></a>
 
 #### 1️⃣ Clone the repository
 git clone [https://github.com/jasminshaik15/Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards.git](https://github.com/jasminshaik15/Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards)
@@ -151,7 +151,7 @@ jupyter notebook Python/HEALTHCARE_EDA.ipynb
 #### 4️⃣ Open the Power BI Dashboard manually:
 #### Navigate to the 'PowerBI' folder and open 'HEALTHCARE_DASHBOARD.pbix' in Power BI Desktop
 
-## 📌 How to Run (For both Python EDA + Power BI) <a name="-how-to-run"></a>
+## 📌 How to Run (For both Python EDA + Power BI) <a name="7-how-to-run"></a>
 
 ### Run Python EDA Notebook
 
