@@ -28,21 +28,21 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 ## 📌 Key Features
 
--📑 Merges multiple Excel sheets into a single clean dataset.
+- 📑 Merges multiple Excel sheets into a single clean dataset.
 
--🧹 Cleans and standardizes patient, doctor, and hospital details.
+- 🧹 Cleans and standardizes patient, doctor, and hospital details.
 
--⚙ Handles missing values (numeric → median, categorical → mode).
+- ⚙ Handles missing values (numeric → median, categorical → mode).
 
--📏 Calculates Length of Stay for each patient.
+- 📏 Calculates Length of Stay for each patient.
 
--💸 Flags patients with High Billing Amounts.
+- 💸 Flags patients with High Billing Amounts.
 
--🔢 Maps Admission Types to numeric codes for analysis.
+- 🔢 Maps Admission Types to numeric codes for analysis.
 
--📊 Performs EDA using Python (Pandas, Matplotlib, Seaborn).
+- 📊 Performs EDA using Python (Pandas, Matplotlib, Seaborn).
 
--📈 Builds Power BI dashboards for dynamic visual insights.
+- 📈 Builds Power BI dashboards for dynamic visual insights.
 
 
 
