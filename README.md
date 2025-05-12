@@ -107,7 +107,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 ## 📌 5. Project Folder Structure <a name="5-project-folder-structure"></a>
 
-├── 📁 Data/ # Healthcare Excel dataset files
+├── 📁 data/ # Healthcare Excel dataset files
 
 │ ├── healthcare_dataset.xlsx
 
@@ -117,7 +117,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 │
 
-├── 📁 Python/ # Python notebook, requirements, and scripts
+├── 📁 python/ # Python notebook, requirements, and scripts
 
 │ ├── HEALTHCARE_EDA.ipynb
 
